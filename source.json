@@ -1,20 +1,8 @@
 [
   {
-  "name": "樱花资源",
-  "logo": "",
-  "desc": "",
-  "nsfw": false,
-  "api": {
-    "root": "http://m3u8.apiyhzy.com",
-    "path": "/api.php/provide/vod"
-  }
-}
-]
-[
-  {
   "name": "大地资源",
   "logo": "",
-  "desc": "色情",
+  "desc": "",
   "nsfw": false,
   "api": {
     "root": "https://dadiapi.com",
@@ -22,6 +10,3 @@
   }
 }
 ]
-
-
-
