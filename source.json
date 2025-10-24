@@ -8,17 +8,5 @@
     "root": "https://apiyutu.com",
     "path": "/api.php/provide/vod/"
   }
-}
-  {
-  "name": "饮水机",
-  "logo": "",
-  "desc": "涩",
-  "nsfw": false,
-  "api": {
-    "root": "https://www.xrbsp.com",
-    "path": "/api/json.php"
-  }
-}
 ]
-
 
