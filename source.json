@@ -2,11 +2,12 @@
   {
   "name": "玉兔资源",
   "logo": "",
-  "desc": "涩",
+  "desc": "",
   "nsfw": false,
   "api": {
     "root": "https://apiyutu.com",
-    "path": "/api.php/provide/vod/"
+    "path": "/api.php/provide/vod"
   }
   }
 ]
+
