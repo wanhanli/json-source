@@ -6,8 +6,9 @@
   "nsfw": false,
   "api": {
     "root": "https://apiyutu.com",
-    "path": "/api.php/provide/vod"
+    "path": "/api.php/provide/vod/"
   }
   }
 ]
+
 
