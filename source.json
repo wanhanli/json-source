@@ -1,12 +1,24 @@
 [
   {
-  "name": "黄瓜资源",
+  "name": "玉兔资源",
   "logo": "",
-  "desc": "",
+  "desc": "涩",
   "nsfw": false,
   "api": {
-    "root": "https://www.avre06.com",
-    "path": "/api.php/provide/vod"
+    "root": "https://apiyutu.com",
+    "path": "/api.php/provide/vod/"
+  }
+}
+]
+[
+  {
+  "name": "玉兔资源",
+  "logo": "",
+  "desc": "涩",
+  "nsfw": false,
+  "api": {
+    "root": "https://www.xrbsp.com",
+    "path": "/api/json.php"
   }
 }
 ]
